@@ -1,0 +1,20 @@
+= Light Matter Coding Cheat Sheet
+
+Light Matter Coding is principles, practices and a general style to write clear and understandable code. It's direct counterpart is dark matter coding that results in obscure code full of hidden traps that you can't know about.
+
+This repo is here to collect the most important content from the industry in a cheat sheet. Each entry in the sheet should provide a clear "why should we do this" and avoid platitudes. Detailed explanations cannot be provided in the sheet however and will be confined to written form inside this repo.
+
+Is this cheat sheet opinionated? Yes, especially when we get down to style. I don't see a way around that though, without opinions we would agree in the abstract but fail in the specific.
+
+*Inspiration*
+
+* link:https://www.bbv.ch/images/bbv/pdf/downloads/V2_Clean_Code_V3.pdf[Clean Code Cheat Sheet]
+* link:https://github.com/arlobelshee/ArlosCommitNotation[Arlo's Commit Notation]
+* #ZeroBugs
+* DDD
+* TDD
+* Xp
+* State of DevOps Report
+
+image::Light-Matter-Coding-Cheat-Sheet.drawio.png[Light Matter Coding Cheat Sheet]
+ 
